@@ -72,3 +72,23 @@ footer a.totop:hover {
   background-color: #3dc9b3;
   border-color: #3dc9b3;
 }
+
+
+
+.widget-avatar .avatar:hover {
+    border: 5px solid #3dc9b3;
+}
+
+.bg-skin {
+	background: #3dc9b3;
+}
+
+.highlight-color {
+	background-color: #3dc9b3;
+}
+
+.service-box:hover {
+	border-bottom: 2px solid #3dc9b3;
+}
+
+edited by ashutosh
